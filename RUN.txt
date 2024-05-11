@@ -3,3 +3,5 @@ rustc <name_of_program>
 
 Then run the executable file using
 .\<name_of_file>.exe
+
+
